@@ -14,7 +14,6 @@
   <a href="https://www.blueliftai.tech">blueliftai.tech</a> ·
   <a href="https://www.linkedin.com/company/blueliftai">LinkedIn</a> ·
   <a href="https://www.youtube.com/@blueliftai">YouTube</a> ·
-  <a href="https://huggingface.co/blueliftai">Hugging Face</a> ·
   <a href="https://www.instagram.com/blueliftai">Instagram</a> ·
   <a href="https://www.tiktok.com/@blueliftai">TikTok</a>
 </p>
